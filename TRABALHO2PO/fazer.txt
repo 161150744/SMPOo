@@ -1,0 +1,6 @@
+public abstract class Cache
+{
+  ->tamanho
+  ->vetor[]
+}
+objetive c
